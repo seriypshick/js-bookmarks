@@ -1,0 +1,1 @@
+javascript:(function()%20%7B%20let%20style%20%3D%20document.createElement(%22style%22)%3B%20style.append(%22div%20%3E%20div%20%3E%20.PushpinContent.viewed%20%7B%20display%3A%20none%3B%20%7D%22)%3B%20let%20head%20%3D%20document.head%3B%20head.append(style)%3B%20%7D)()
